@@ -1,4 +1,6 @@
-﻿Console.Write("Чтобы узнать день недели,введите число от 1 до 7 ");
+﻿//Выясняем по номеру день недели
+
+Console.Write("Чтобы узнать день недели,введите число от 1 до 7 ");
 string numberofday = Console.ReadLine();
 
 if(numberofday == "1")

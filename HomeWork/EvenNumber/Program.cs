@@ -1,4 +1,6 @@
-﻿Console.Write("Введите число ");
+﻿//Выясняем четное ли число
+
+Console.Write("Введите число ");
 int A = int.Parse(Console.ReadLine());
 
 if(A%2==0)
